@@ -1,0 +1,6 @@
+https://redux-toolkit.js.org/tutorials/rtk-query
+https://codesandbox.io/s/github/reduxjs/redux-toolkit/tree/master/examples/query/react/basic?from-embed=&file=/src/App.tsx
+
+=======================================================================
+
+PS C:\react> npx create-react-app rtk-query-getting-started-basic --template redux-typescript --use-npm
