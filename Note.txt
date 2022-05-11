@@ -4,3 +4,4 @@ https://codesandbox.io/s/github/reduxjs/redux-toolkit/tree/master/examples/query
 =======================================================================
 
 PS C:\react> npx create-react-app rtk-query-getting-started-basic --template redux-typescript --use-npm
+PS C:\react\rtk-query-getting-started-basic> npm install msw --save-dev
