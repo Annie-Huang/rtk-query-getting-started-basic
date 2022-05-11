@@ -1,5 +1,6 @@
 https://redux-toolkit.js.org/tutorials/rtk-query
 https://codesandbox.io/s/github/reduxjs/redux-toolkit/tree/master/examples/query/react/basic?from-embed=&file=/src/App.tsx
+https://codesandbox.io/s/github/reduxjs/redux-toolkit/tree/master/examples/query/react/advanced?from-embed=&file=/src/App.tsx
 
 =======================================================================
 
