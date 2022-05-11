@@ -1,4 +1,4 @@
-import * as React from 'react';
+import './styles.css';
 import { useGetPokemonByNameQuery } from './services/pokemon';
 
 export default function App() {
